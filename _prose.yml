@@ -1,3 +1,3 @@
 prose:
-  rooturl: ""
+  rooturl: "test"
   ignore: ['file_a.html', '_config.yml']
