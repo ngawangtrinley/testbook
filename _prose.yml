@@ -1,0 +1,2 @@
+rooturl: "file"
+ignore: ['file_a.html', '_config.yml']
