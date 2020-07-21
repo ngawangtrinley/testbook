@@ -1,2 +1,5 @@
 prose:
-  rooturl: '\'
+  rooturl: ''
+  ignore:
+  - /test
+  - /_includes
